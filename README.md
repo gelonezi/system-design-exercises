@@ -1,10 +1,10 @@
-# System Design Practices
+# System Design Exercises
 
 Architecture diagrams drawn as system-design practice, in [Excalidraw](https://excalidraw.com).
 
 ## Judiciary Integration Platform
 
-**[→ Open the board in Excalidraw](https://excalidraw.com/#json=sqELxF3nho3RYFRq7nxhh,nP3Qz7ZG5uIRbtcYHqjNjg)**
+**[→ Open the board in Excalidraw](https://excalidraw.com/#json=a-eHnApUWQOO8Mw825KjP,vkUMiKu2Mo9H3pV9tt0TKg)**
 · or open `judiciary-integration-architecture.excalidraw` locally
 
 A generalized reference architecture for an integration platform that gives several
